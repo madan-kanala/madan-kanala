@@ -57,7 +57,7 @@
 #### Business Information
 
 - :paperclip: [My Resume](https://github.com/madan-kanala/madan-kanala/blob/main/TJM%20CV%20BC.pdf)
-- :email: temens94@gmail.com
+- :email: mdnkanala.dev@gmail.com
 
 #### Profile Visits
 
