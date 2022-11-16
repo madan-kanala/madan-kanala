@@ -14,10 +14,10 @@
 
 ### Socials
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/tjmensah?color=9cf&style=for-the-badge&logo=twitter)](https://twitter.com/mdnkanala)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-teromemensah-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mdnkanala-j-m-331336167/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/mdnkanala?color=9cf&style=for-the-badge&logo=twitter)](https://twitter.com/mdnkanala)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-mdnkanala-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mdnkanala-j-m-331336167/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-mdnkanala.ai-9cf?style=for-the-badge&logo=instagram)](https://instagram.com/mdnkanala.ai)
-[![Mail Badge](https://img.shields.io/badge/mail-teromemensah-9cf?style=for-the-badge&logo=gmail)](mailto:mdnkanala.dev@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/mail-mdnkanala-9cf?style=for-the-badge&logo=gmail)](mailto:mdnkanala.dev@gmail.com)
 
 <!-- TODO: Add last video link -->
 
